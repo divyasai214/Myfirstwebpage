@@ -8,7 +8,7 @@
 </head>
 <body>
 <img src="C:\Users\PC\Desktop\skeclogo.png">
-<h1>SREE KAVITHA ENGINEERING COLLEGE</h1>
+<h1>university college of engineering and technology for women</h1>
 <form action="loginprocess.jsp" method="post">  
 Email:<input type="text" name="email"/><br/><br/>  
 Password:<input type="password" name="password"/><br/><br/>  
